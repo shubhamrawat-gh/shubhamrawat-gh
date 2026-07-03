@@ -1,4 +1,6 @@
-<h1 align="center">My code works. I don't know why. Please don't ask.</h1>
+<div align="center">
+
+# My code works. I don't know why. Please don't ask.
 
 <p>
   <a href="https://discord.gg/827621371030274080">
