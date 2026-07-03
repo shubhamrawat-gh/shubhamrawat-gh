@@ -1,4 +1,4 @@
-# My code works. I don't know why. Please don't ask.
+<h1 align="center">My code works. I don't know why. Please don't ask.</h1>
 
 <p align="left">
   <a href="https://discord.gg/827621371030274080">
