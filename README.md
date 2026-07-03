@@ -16,8 +16,6 @@
 
 </div>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## STACK
 
 ### Core Development
@@ -66,8 +64,6 @@
   <img src="https://img.shields.io/badge/After_Effects-00005B?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" />
   <img src="https://img.shields.io/badge/Premiere_Pro-00005B?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" />
 </p>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## GITHUB
 
