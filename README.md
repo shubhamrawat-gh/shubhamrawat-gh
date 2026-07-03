@@ -62,11 +62,3 @@
 </p>
 
 ## GITHUB
-
-<table>
-  <tr>
-    <td>
-      <img src="./assets/gif1.gif" width="400px" />
-    </td>
-  </tr>
-</table>
