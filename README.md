@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://discord.gg/827621371030274080">
-    <img src="https://img.shields.io/badge/-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/shubhamrawat.ig/">
-    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/shubhamrawat-lkin">
-    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -35,27 +35,31 @@
 ### AI, Automation & Data Science
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="64"/>
 
-<a href="https://huggingface.co">
-  <img src="https://img.shields.io/badge/-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</a>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg"
+       width="48"
+       title="Hugging Face"/>
 
-<a href="https://n8n.io">
-  <img src="https://img.shields.io/badge/-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-</a>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg"
+       width="48"
+       title="n8n"/>
 
-<a href="https://socket.io">
-  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=socketdotio&logoColor=white" />
-</a>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/socketdotio.svg"
+       width="48"
+       title="Socket.IO"/>
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="54" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg"
+       width="48"
+       title="Pandas"/>
 
-<img src="https://img.shields.io/badge/-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg"
+       width="48"
+       title="NumPy"/>
 
-<img src="https://img.shields.io/badge/-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
-<img src="https://img.shields.io/badge/-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg"
+       width="48"
+       title="Scikit-learn"/>
 </p>
 
 ### Creative Tools
@@ -80,7 +84,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhamrawat-gh&style=for-the-badge&color=58A6FF" />
+  <img
+    src="https://komarev.com/ghpvc/?username=shubhamrawat-gh&style=for-the-badge&color=58A6FF"
+  />
 </p>
 
 </div>
