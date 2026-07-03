@@ -1,10 +1,4 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00CC6A&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shubham+%F0%9F%91%8B;First-year+CSE+Student;Solo+Founder+%40+Zero+Latency;Building+with+AI-first+workflows" alt="Typing SVG" />
-
-<br><br>
-
-# 💫 About Me
+About Me
 
 **My code works. I don't know why. Please don't ask.**
 
