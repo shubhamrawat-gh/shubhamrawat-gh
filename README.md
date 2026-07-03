@@ -58,16 +58,4 @@
 
 #  GITHUB
 
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=shubhamrawat-gh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00cc6a&icon_color=00cc6a&text_color=c9d1d9" />
-
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamrawat-gh&layout=compact&hide_border=true&bg_color=0d1117&title_color=00cc6a&text_color=c9d1d9" />
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=shubhamrawat-gh&label=Profile%20Views&color=00cc6a&style=flat" />
-</p>
-
 </div>
