@@ -23,34 +23,40 @@
 **Core Development**
 
 <p>
-  <img height="42"
-       src="https://skillicons.dev/icons?i=nodejs,npm,react,nextjs,ts,vite,tailwind,postgres,mongodb,firebase,git,github,docker,aws,gcp,linux,tensorflow&theme=dark&perline=9" />
+  <img
+    height="42"
+    src="https://skillicons.dev/icons?i=nodejs,npm,react,nextjs,ts,vite,tailwind,postgres,mongodb,firebase,git,github,docker,aws,gcp,linux,tensorflow&theme=dark&perline=9"
+  />
 </p>
 
 **Cloud & AI**
 
 <p>
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="36" height="36"/>
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="36" height="36"/>
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="36" height="36"/>
-  <img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" width="36" height="36"/>
+  <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Socket.IO-000000?style=flat-square&logo=socketdotio&logoColor=white"/>
 </p>
 
 **Python & Data Science**
 
 <p>
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36"/>
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="36" height="36"/>
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="36" height="36"/>
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="36" height="36"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 </p>
 
 **Creative Tools**
 
 <p>
-  <img height="42"
-       src="https://skillicons.dev/icons?i=ae,pr&theme=dark" />
+  <img
+    height="42"
+    src="https://skillicons.dev/icons?i=ae,pr&theme=dark"
+  />
 </p>
+
+---
 
 # GITHUB
 
