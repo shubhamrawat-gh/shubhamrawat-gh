@@ -20,43 +20,37 @@
 
 # STACK
 
-### Core Development
+**Core Development**
 
 <p>
-  <img
-    height="40"
-    src="https://skillicons.dev/icons?i=nodejs,npm,react,nextjs,ts,vite,tailwind,postgres,mongodb,firebase,git,github,docker,aws,gcp,linux,tensorflow&theme=dark&perline=9"
-  />
+  <img height="42"
+       src="https://skillicons.dev/icons?i=nodejs,npm,react,nextjs,ts,vite,tailwind,postgres,mongodb,firebase,git,github,docker,aws,gcp,linux,tensorflow&theme=dark&perline=9" />
 </p>
 
-### Cloud & AI
+**Cloud & AI**
 
 <p>
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="40" title="Cloudflare"/>
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" title="Hugging Face"/>
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" title="n8n"/>
-  <img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" width="40" title="Socket.IO"/>
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" width="36" height="36"/>
 </p>
 
-### Python & Data Science
+**Python & Data Science**
 
 <p>
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" title="Python"/>
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="40" title="Pandas"/>
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="40" title="NumPy"/>
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="40" title="Scikit-learn"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="36" height="36"/>
 </p>
 
-### Creative Tools
+**Creative Tools**
 
 <p>
-  <img
-    height="40"
-    src="https://skillicons.dev/icons?i=ae,pr&theme=dark"
-  />
+  <img height="42"
+       src="https://skillicons.dev/icons?i=ae,pr&theme=dark" />
 </p>
-
----
 
 # GITHUB
 
