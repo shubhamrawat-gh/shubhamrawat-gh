@@ -18,42 +18,44 @@
 
 ---
 
-# ⚡ STACK
+# 🚀 TECH STACK
 
-### Core Development
+### Web Development & Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,react,nextjs,ts,vite,tailwind,postgres,mongodb,firebase,git,github,docker,aws,gcp,linux,tensorflow&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,react,nextjs,ts,vite,tailwind,postgres,mongodb,firebase&theme=dark" />
 </p>
 
 <br>
 
-### Cloud & AI
+### Infrastructure & DevOps
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="42" title="Cloudflare"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,linux,tensorflow&theme=dark" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="42" title="Hugging Face"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="42" title="n8n"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" width="42" title="Socket.IO"/>
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="50" title="Cloudflare"/>
 </p>
 
 <br>
 
-### Python & Data Science
+### AI, Automation & Data Science
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="42" title="Python"/>
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="50" title="Hugging Face"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="42" title="Pandas"/>
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" title="n8n"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="42" title="NumPy"/>
+  <img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" width="50" title="Socket.IO"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="42" title="Scikit-learn"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="50" title="Python"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="42" title="Plotly"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="50" title="Pandas"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="50" title="NumPy"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="50" title="Scikit-learn"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="50" title="Plotly"/>
 </p>
 
 <br>
@@ -74,7 +76,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamrawat-gh&layout=compact&hide_border=true&bg_color=0d1117&title_color=00cc6a&text_color=c9d1d9" />
 </p>
 
----
+<br>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=shubhamrawat-gh&label=Profile%20Views&color=00cc6a&style=flat" />
