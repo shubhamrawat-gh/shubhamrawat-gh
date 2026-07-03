@@ -3,19 +3,20 @@
 # My code works. I don't know why. Please don't ask.
 
 <p>
-  <a href="https://discord.gg/827621371030274080">
+  <a href="https://discord.gg/827621371030274080" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/shubhamrawat.ig/">
+  <a href="https://www.instagram.com/shubhamrawat.ig/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/shubhamrawat-lkin">
+  <a href="https://www.linkedin.com/in/shubhamrawat-lkin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 </div>
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## STACK
 
@@ -66,5 +67,11 @@
   <img src="https://img.shields.io/badge/Premiere_Pro-00005B?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" />
 </p>
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## GITHUB
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shubhamrawat-gh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00cc6a&icon_color=00cc6a&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamrawat-gh&layout=compact&hide_border=true&bg_color=0d1117&title_color=00cc6a&text_color=c9d1d9" />
+</p>
