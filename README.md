@@ -37,13 +37,13 @@
 
 ### 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=nodejs,npm,nestjs,react,tailwind,postgres,mongodb,firebase,git,github&theme=dark&perline=10" /><br><br>
-<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="48" title="TensorFlow" />
-<img src="https://cdn.simpleicons.org/pandas/150458" height="48" title="Pandas" />
-<img src="https://cdn.simpleicons.org/numpy/013243" height="48" title="NumPy" />
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" title="scikit-learn" />
-<img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="48" title="After Effects" />
-<img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="48" title="Premiere Pro" />
+<img src="https://skillicons.dev/icons?i=nodejs,npm,nestjs,react,tailwind,postgres,mongodb,firebase,git,github,tensorflow,sklearn,ae,pr&theme=dark&perline=14" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/-%20-150458?style=flat&logo=pandas&logoColor=white" height="32" title="Pandas" />
+<img src="https://img.shields.io/badge/-%20-013243?style=flat&logo=numpy&logoColor=white" height="32" title="NumPy" />
+<img src="https://img.shields.io/badge/-%20-11557C?style=flat&logo=matplotlib&logoColor=white" height="32" title="Matplotlib" />
 
 </div>
 
@@ -53,12 +53,12 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.shion.dev/api?username=shubhamrawat-gh&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&border_radius=12" height="165" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shubhamrawat-gh&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact&border_radius=12" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=shubhamrawat-gh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00cc6a&icon_color=00cc6a&text_color=c9d1d9&border_radius=12" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamrawat-gh&layout=compact&hide_border=true&bg_color=0d1117&title_color=00cc6a&text_color=c9d1d9&border_radius=12&langs_count=8" height="165" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=shubhamrawat-gh&theme=shadow_green&hide_border=true&border_radius=12" />
+<img src="https://streak-stats.demolab.com/?user=shubhamrawat-gh&theme=github-dark-blue&hide_border=true&border_radius=12&background=0D1117&ring=00cc6a&fire=00cc6a&currStreakLabel=00cc6a" />
 
 </div>
 
@@ -66,11 +66,7 @@
 
 <div align="center">
 
-<sub>
-
-[![](https://komarev.com/ghpvc/?username=shubhamrawat-gh&icon=0&color=0&style=flat)](https://visitcount.itsvg.in)
-
-</sub>
+<img src="https://komarev.com/ghpvc/?username=shubhamrawat-gh&label=Profile+Views&style=flat&color=0d1117" />
 
 <br><br>
 
