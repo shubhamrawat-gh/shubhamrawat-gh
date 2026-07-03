@@ -1,4 +1,10 @@
-About Me
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00CC6A&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shubham+%F0%9F%91%8B;First-year+CSE+Student;Solo+Founder+%40+Zero+Latency;Building+with+AI-first+workflows" alt="Typing SVG" />
+
+<br><br>
+
+# 💫 About Me
 
 **My code works. I don't know why. Please don't ask.**
 
@@ -22,7 +28,13 @@ About Me
 
 ### 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=nodejs,npm,react,next,tailwind,postgres,mongodb,firebase,git,github,tensorflow&theme=dark&perline=11" />
+<img src="https://skillicons.dev/icons?i=nodejs,npm,react,next,ts,vite,tailwind,postgres,mongodb,firebase,git,github,docker,aws,gcp,cloudflare,linux,tensorflow&theme=dark&perline=12" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/-%20-FFD21E?style=flat&logo=huggingface&logoColor=black" height="32" title="Hugging Face" />
+<img src="https://img.shields.io/badge/-%20-EA4B71?style=flat&logo=n8n&logoColor=white" height="32" title="n8n" />
+<img src="https://img.shields.io/badge/-%20-010101?style=flat&logo=socketdotio&logoColor=white" height="32" title="Socket.IO" />
 
 <br><br>
 
