@@ -16,7 +16,6 @@
 
 </div>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## STACK
 
@@ -67,11 +66,5 @@
   <img src="https://img.shields.io/badge/Premiere_Pro-00005B?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" />
 </p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## GITHUB
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shubhamrawat-gh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00cc6a&icon_color=00cc6a&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamrawat-gh&layout=compact&hide_border=true&bg_color=0d1117&title_color=00cc6a&text_color=c9d1d9" />
-</p>
