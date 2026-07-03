@@ -1,6 +1,6 @@
 <h1 align="center">My code works. I don't know why. Please don't ask.</h1>
 
-<p align="left">
+<p>
   <a href="https://discord.gg/827621371030274080">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
@@ -12,6 +12,7 @@
   </a>
 </p>
 
+</div>
 
 ## STACK
 
