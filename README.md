@@ -1,4 +1,10 @@
-About Me
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00CC6A&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shubham+%F0%9F%91%8B;First-year+CSE+Student;Solo+Founder+%40+Zero+Latency;Building+with+AI-first+workflows" alt="Typing SVG" />
+
+<br><br>
+
+# 💫 About Me
 
 **My code works. I don't know why. Please don't ask.**
 
@@ -22,7 +28,7 @@ About Me
 
 ### 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=nodejs,npm,nestjs,react,tailwind,postgres,mongodb,firebase,git,github,tensorflow&theme=dark&perline=11" />
+<img src="https://skillicons.dev/icons?i=nodejs,npm,nestjs,react,next,tailwind,postgres,mongodb,firebase,git,github,tensorflow&theme=dark&perline=12" />
 
 <br><br>
 
