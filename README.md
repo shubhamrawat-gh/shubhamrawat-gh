@@ -14,61 +14,60 @@
   </a>
 </p>
 
+</div>
+
 ---
 
 # STACK
 
 ### Core Development
 
-<p align="center">
+<p>
   <img
-    height="36"
+    height="40"
     src="https://skillicons.dev/icons?i=nodejs,npm,react,nextjs,ts,vite,tailwind,postgres,mongodb,firebase,git,github,docker,aws,gcp,linux,tensorflow&theme=dark&perline=9"
   />
 </p>
 
 ### Cloud & AI
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="28" title="Cloudflare"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="28" title="Hugging Face"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="28" title="n8n"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" width="28" title="Socket.IO"/>
+<p>
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="40" title="Cloudflare"/>
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" title="Hugging Face"/>
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" title="n8n"/>
+  <img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" width="40" title="Socket.IO"/>
 </p>
 
 ### Python & Data Science
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="28" title="Python"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="28" title="Pandas"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="28" title="NumPy"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="28" title="Scikit-learn"/>
+<p>
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" title="Python"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="40" title="Pandas"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="40" title="NumPy"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="40" title="Scikit-learn"/>
 </p>
 
 ### Creative Tools
 
-<p align="center">
-  <img height="36" src="https://skillicons.dev/icons?i=ae,pr&theme=dark" />
+<p>
+  <img
+    height="40"
+    src="https://skillicons.dev/icons?i=ae,pr&theme=dark"
+  />
 </p>
 
 ---
 
 # GITHUB
 
-<p align="center">
+<p>
   <img
-    height="155"
+    height="160"
     src="https://github-readme-stats.vercel.app/api?username=shubhamrawat-gh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00cc6a&icon_color=00cc6a&text_color=c9d1d9"
   />
 
   <img
-    height="155"
+    height="160"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamrawat-gh&layout=compact&hide_border=true&bg_color=0d1117&title_color=00cc6a&text_color=c9d1d9"
   />
 </p>
@@ -78,5 +77,3 @@
     src="https://komarev.com/ghpvc/?username=shubhamrawat-gh&label=Profile%20Views&color=00cc6a&style=flat"
   />
 </p>
-
-</div>
