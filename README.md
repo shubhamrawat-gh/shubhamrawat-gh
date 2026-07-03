@@ -10,7 +10,6 @@
 
 </div>
 
-
 ## STACK
 
 ### Core Development
@@ -62,13 +61,12 @@
   <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://img.shields.io/badge/Premiere_Pro-00005B?style=flat-square&logo=adobepremierepro&logoColor=9999FF" /></a>
 </p>
 
-
 ## GITHUB
 
 <table>
   <tr>
     <td>
-      <img src="./assets/gif1.gif" width="300px" />
+      <img src="./assets/gif1.gif" width="400px" />
     </td>
   </tr>
 </table>
