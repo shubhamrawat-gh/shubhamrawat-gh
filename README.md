@@ -47,25 +47,6 @@
 
 <br>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<br>
-
-### GITHUB
-
-<img src="https://github-readme-stats.vercel.app/api?username=shubhamrawat-gh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00cc6a&icon_color=00cc6a&text_color=c9d1d9&border_radius=12" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamrawat-gh&layout=compact&hide_border=true&bg_color=0d1117&title_color=00cc6a&text_color=c9d1d9&border_radius=12&langs_count=8" height="165" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=shubhamrawat-gh&theme=github-dark-blue&hide_border=true&border_radius=12&background=0D1117&ring=00cc6a&fire=00cc6a&currStreakLabel=00cc6a" />
-
-<br>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<br>
-
 <img src="https://komarev.com/ghpvc/?username=shubhamrawat-gh&label=Profile+Views&style=flat&color=0d1117" />
 
 <br><br>
