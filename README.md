@@ -68,9 +68,6 @@
 <table>
   <tr>
     <td>
-      <p>Check out my repositories and contributions!</p>
-    </td>
-    <td>
       <img src="./assets/gif1.gif" width="300px" />
     </td>
   </tr>
