@@ -1,23 +1,14 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00CC6A&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shubham+%F0%9F%91%8B;First-year+CSE+Student;Solo+Founder+%40+Zero+Latency;Building+with+AI-first+workflows" alt="Typing SVG" />
+
+<br><br>
+
 # 💫 About Me
 
+**My code works. I don't know why. Please don't ask.**
+
 </div>
-
-<table align="center" border="0">
-<tr>
-<td>
-
-🔭 &nbsp;I'm currently working on&nbsp; **···**
-👯 &nbsp;I'm looking to collaborate on&nbsp; **···**
-🤝 &nbsp;I'm looking for help with&nbsp; **···**
-🌱 &nbsp;I'm currently learning&nbsp; **···**
-💬 &nbsp;Ask me about&nbsp; **···**
-⚡ &nbsp;Fun fact&nbsp; **···**
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -37,13 +28,18 @@
 
 ### 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=nodejs,npm,nestjs,react,tailwind,postgres,mongodb,firebase,git,github,tensorflow,sklearn,ae,pr&theme=dark&perline=14" />
+<img src="https://skillicons.dev/icons?i=nodejs,npm,nestjs,react,tailwind,postgres,mongodb,firebase,git,github,tensorflow&theme=dark&perline=11" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/-%20-150458?style=flat&logo=pandas&logoColor=white" height="32" title="Pandas" />
-<img src="https://img.shields.io/badge/-%20-013243?style=flat&logo=numpy&logoColor=white" height="32" title="NumPy" />
-<img src="https://img.shields.io/badge/-%20-11557C?style=flat&logo=matplotlib&logoColor=white" height="32" title="Matplotlib" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" width="48" title="Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" width="48" title="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" width="48" title="Matplotlib" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48" width="48" title="scikit-learn" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=ae,pr&theme=dark" />
 
 </div>
 
