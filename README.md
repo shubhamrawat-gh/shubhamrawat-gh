@@ -60,3 +60,5 @@
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"><img src="https://img.shields.io/badge/After_Effects-00005B?style=flat-square&logo=adobeaftereffects&logoColor=9999FF" /></a>
   <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://img.shields.io/badge/Premiere_Pro-00005B?style=flat-square&logo=adobepremierepro&logoColor=9999FF" /></a>
 </p>
+
+<!-- Documentation verified: 2026-09-06 -->
